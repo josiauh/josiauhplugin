@@ -1,11 +1,11 @@
 {
-   "name": "SilentTyping",
+   "name": "JosiauhPlugin",
    "version": "1.0.0",
-   "description": "Silences your typing indicator.",
+   "description": "Made specifically for Josiauh, but you can use it too!!",
    "authors": [
       {
-         "name": "eternal",
-         "id": "263689920210534400"
+         "name": "freesmart",
+         "id": "853014693115068426"
       }
    ]
 }
